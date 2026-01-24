@@ -1,6 +1,6 @@
 ## Hi, I'm Frances Ugwu 👋
 
-I'm a final-year Computer & Electrical Engineering student passionate about building real-world systems at the intersection of **Embedded Systems, Edge AI, and Autonomous Robotics**.  
+I'm a final-year Computer student passionate about building real-world systems at the intersection of **Embedded Systems, Edge AI, and Autonomous Robotics**.  
 My long-term goal is to become a top-tier engineer and researcher, and eventually build a tech company solving difficult, high-impact problems.
 
 ---
